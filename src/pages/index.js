@@ -11,7 +11,7 @@ export default () => (
     <Banner title="Conoce La paz " 
               info="Visita la Ciudad Maravilla en Bolivia durante 3 dias">
         <Link to="/tours" 
-              className="btn-white">explorar tour
+              className="btn-white">Explorar Destino
         </Link>
       </Banner>
     </SimpleHero>
